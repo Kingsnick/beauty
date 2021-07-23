@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>BEAUTY HOOKS</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+    
+    <link type="text/css" rel="stylesheet" href="beautyhooks.css">
+  </head>
+  
+  <body>
+    <div class="container">
+      <div class="header">
+        <div  class="headerLogo">
+          <img src="./imgs/beautylogo.jpg" alt="Image not found"/>
+        </div>
+        
+        <div class="greets">
+          <span class="greeting"></span>
+          - WELCOME!!!
+        </div>
+      </div>
+      
+      <div class="imgsList">
+        
+        
+      </div>
+      
+      <div class="followUs">
+        <div class="twitter" onClick="notYet()">
+          <img src="./imgs/twitter.png" alt="Image not found" />
+        </div>
+        
+        <div class="instagram" onClick="notYet()">
+          <img src="./imgs/instagram.png" alt="Image not found" />
+        </div>
+        <div class="gmail"><a href="mailto:kingsinfolink@gmail.com">
+          <img src="./imgs/gmail.png" alt="Image not found" /></a>
+        </div>
+        <div class="whatsapp" onClick="notYet()">
+          <img src="./imgs/whatsapp.png" alt="Image not found" />
+        </div>
+        <div class="fBook">
+          <a href="http://facebook.com/beautyhookups">
+          <img src="./imgs/facebook.png" alt="Image not found" />
+          </a>
+        </div> 
+      </div>
+      
+      <div class="links">
+        <ul class="headLinks one">
+          <li class="signUp">
+            <a href="login.html">Login</a>
+          </li>
+          <li class="reg">
+            <a href="login.html">Hookup</a>
+          </li>
+          <li class="lesbian">
+            <a href="login.html">Lesbians</a>
+          </li>
+          <li class="sugar">
+            <a href="login.html">Sugar Mummy</a>
+          </li>
+          <li class="video">
+            <a href="login.html">Video Chat</a>
+          </li>
+        </ul>
+        
+        <ul class="headLinks two">
+          <li class="gay">
+            <a href="login.html">Gay World</a>
+          </li>
+          <li class="serious">
+            <a href="login.html">Serious Date</a>
+          </li>
+          <li class="contestants">
+            <a href="login.html">CONTESTANTS</a>
+          </li>
+        </ul>
+      </div>
+      
+      <div class="pixflex">
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div> 
+              <img src="./imgs/pretty6.jpg" alt="Image not found" />
+               <p class="notes">Age: 27</p>
+            </div>
+          </a>
+        </div>
+        
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div>
+              <img src="./imgs/pretty7.jpg" alt="Image not found" />
+               <p class="notes">Age: 25</p>
+            </div>
+          </a>
+        </div>
+        
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div>
+              <img src="./imgs/pretty5.jpg" alt="Image not found" />
+               <p class="notes">Age: 23</p>
+            </div>
+          </a>
+        </div>
+      </div>
+      
+      <div class="pixflex">
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div> 
+              <img src="./imgs/pretty3.jpg" alt="Image not found" />
+               <p class="notes">Age: 24</p>
+            </div>
+          </a>
+        </div>
+        
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div>
+              <img src="./imgs/pretty4.jpg" alt="Image not found" />
+               <p class="notes">Age: 23</p>
+            </div>
+          </a>
+        </div>
+        
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div>
+              <img src="./imgs/pretty8.jpg" alt="Image not found" />
+               <p class="notes">Age: 19</p>
+            </div>
+          </a>
+        </div>
+      </div>
+      
+      <div class="pixflex">
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div> 
+              <img src="./imgs/pretty.jpg" alt="Image not found" />
+               <p class="notes">Age: 22</p>
+            </div>
+          </a>
+        </div>
+        
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div>
+              <img src="./imgs/pretty1.jpg" alt="Image not found" />
+               <p class="notes">Age: 23</p>
+            </div>
+          </a>
+        </div>
+        
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div>
+              <img src="./imgs/pretty2.jpg" alt="Image not found" />
+               <p class="notes">Age: 25</p>
+            </div>
+          </a>
+        </div>
+      </div>
+      
+      <div class="pixflex">
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div> 
+              <img src="./imgs/sexy1 (5).jpg" alt="Image not found" />
+               <p class="notes">Lesbians</p>
+            </div>
+          </a>
+        </div>
+        
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div>
+              <img src="./imgs/sexy1 (4).jpg" alt="Image not found" />
+               <p class="notes">Age: 23</p>
+            </div>
+          </a>
+        </div>
+        
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div>
+              <img src="./imgs/sexy1 (3).jpg" alt="Image not found" />
+               <p class="notes">Age: 25</p>
+            </div>
+          </a>
+        </div>
+      </div>
+      
+      <div class="pixflex">
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div> 
+              <img src="./imgs/sexy1 (2).jpg" alt="Image not found" />
+               <p class="notes">Age: 21</p>
+            </div>
+          </a>
+        </div>
+        
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div>
+              <img src="./imgs/sexy1 (1).jpg" alt="Image not found" />
+               <p class="notes">Age: 21</p>
+            </div>
+          </a>
+        </div>
+        
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div>
+              <img src="./imgs/sexy1.jpg" alt="Image not found" />
+               <p class="notes">Age: 23</p>
+            </div>
+          </a>
+        </div>
+      </div> 
+      
+      <div class="pixflex">
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div> 
+              <img src="./imgs/sexy.jpg" alt="Image not found" />
+               <p class="notes">Age: 20</p>
+            </div>
+          </a>
+        </div>
+        
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div>
+              <img src="./imgs/sexy (1).jpg" alt="Image not found" />
+               <p class="notes">Age: 18</p>
+            </div>
+          </a>
+        </div>
+        
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div>
+              <img src="./imgs/sexy (2).jpg" alt="Image not found" />
+               <p class="notes">Age: 26</p>
+            </div>
+          </a>
+        </div>
+        
+        
+      </div>
+      
+      <div class="pixflex">
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div> 
+              <img src="./imgs/sexy (3).jpg" alt="Image not found" />
+               <p class="notes">Age: 28</p>
+            </div>
+          </a>
+        </div>
+        
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div>
+              <img src="./imgs/sexy (4).jpg" alt="Image not found" />
+               <p class="notes">Age: 21</p>
+            </div>
+          </a>
+        </div>
+        
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div>
+              <img src="./imgs/sexy (5).jpg" alt="Image not found" />
+               <p class="notes">Age: 23</p>
+            </div>
+          </a>
+        </div>
+        
+        
+      </div>
+      
+      <div class="pixflex">
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div> 
+              <img src="./imgs/sexy (6).jpg" alt="Image not found" />
+               <p class="notes">Age: 21</p>
+            </div>
+          </a>
+        </div>
+        
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div>
+              <img src="./imgs/sexy (7).jpg" alt="Image not found" />
+               <p class="notes">Age: 25</p>
+            </div>
+          </a>
+        </div>
+        
+        <div class="flexpix">
+          <a href="login.html">
+            <div class="bground">
+              <div class="new">New</div>
+              <img src="./imgs/sexy (8).jpg" alt="Image not found" />
+               <p class="notes">Age: 33</p>
+            </div>
+          </a>
+        </div>
+      </div>
+      
+      <div class="navi">
+        <div class="prev"><<</div>
+        <div class="_1">1</div>
+        <div class="_2">2</div>
+        <div class="_3">3</div>
+        <div class="_4">4</div>
+        <div class="_5">5</div>
+        <div class="dots">...</div>
+        <div class="next">>></div>
+      </div>
+      
+      <div class="sponsored"></div>
+      <div class="footer"></div>
+    </div>
+    
+    <script src="warning.js" type="text/javascript"></script>
+    <script src="welcome.js" type="text/javascript"></script>
+    <script src="beautyhooksfooter.js" type="text/javascript"></script>
+    <script src="beautyhooksgreetings.js" type="text/javascript"></script>
+    <script src="beautyhookssponsored.js" type="text/javascript"></script>
+  </body>
+</html>
